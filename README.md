@@ -25,6 +25,8 @@ Den här veckan tar vi våra första steg in i molnvärlden. Vi bekantar oss med
 **Förinspelat**
 
 * 01 - [Introduktion till Språkmodeller](https://vimeo.com/1122239243/8379069134)
+* 01 - [Introduktion till Ollama](https://vimeo.com/1123227123/7994dc9516)
+* 01 - [Introduktion till Langchain](https://vimeo.com/1123227219/ea9448fbc5)
 
 
 ### Lektionsrepon
