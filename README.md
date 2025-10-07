@@ -40,3 +40,4 @@ Den här veckan tar vi våra första steg in i molnvärlden. Vi bekantar oss med
 
 ### Övningar 
 
+* [Språkcoachen](https://github.com/fu-ai-fe24/week-41-exercise-sprakcoachen/tree/main)
