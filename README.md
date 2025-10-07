@@ -23,6 +23,8 @@ I denna första modul kommer vi titta först på en introduktion till språkmode
 
 **LIVE**
 
+* [Genomgång med Christoffer, 7 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EYF9P5ccBPBEg13_JBCqMxEBQOvMQ-KXIm80aLHnjk8qcg?e=1zunbP)
+
 **Förinspelat**
 
 * 01 - [Introduktion till Språkmodeller](https://vimeo.com/1122239243/8379069134)
