@@ -3,7 +3,8 @@
 
 ## Introduktion
 
-Den här veckan tar vi våra första steg in i molnvärlden. Vi bekantar oss med grundläggande molnkoncept och lär oss hur AWS fungerar som plattform. Vi sätter upp våra egna AWS-konton för att kunna bygga och testa i riktiga miljöer, och utforskar hur AWS Lambda gör det möjligt att köra kod helt utan att hantera servrar. Du får en första inblick i hur serverless-tänkandet förändrar både utvecklingsprocessen och driften av applikationer.
+I denna första modul kommer vi titta först på en introduktion till språkmodeller för att få en grund att stå på. Hur övergripande fungerar de? Hur tolkar de våra frågor och vad är tokens egentligen? Därefter tittar vi på att köra igång en språkmodell lokalt med Ollama och kombinera detta med React och ramverket Langchain.js som har blivit populärt för att bygga AI-drivna applikationer.
+
 
 ## Mål för veckan:
 
@@ -37,6 +38,7 @@ Den här veckan tar vi våra första steg in i molnvärlden. Vi bekantar oss med
 
 ### Länkar
 
+* [Course Elements of AI (steg 1-3 relevanta för er)](https://course.elementsofai.com/)
 
 ### Övningar 
 
