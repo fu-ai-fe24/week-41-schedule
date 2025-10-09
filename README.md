@@ -24,6 +24,8 @@ I denna första modul kommer vi titta först på en introduktion till språkmode
 **LIVE**
 
 * [Genomgång med Christoffer, 7 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EYF9P5ccBPBEg13_JBCqMxEBQOvMQ-KXIm80aLHnjk8qcg?e=1zunbP)
+* [Genomgång med Jesper, 9 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EUJi-vhzeb9OomBCEj3avpQBGj2N0ebcPFckMk6_DuYLdQ?e=8c1AvH)
+* [Nya Direktiv kring AI med Kristina, 9 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EUE4DA7q2bBLvVIKCxccEuMBMo_PIKzTMHAlArl-WxQy4Q?e=RWKes3)
 
 **Förinspelat**
 
