@@ -35,6 +35,7 @@ I denna första modul kommer vi titta först på en introduktion till språkmode
 ### Lektionsrepon
 
 * [7 okt](https://github.com/FE24-Utveckling-av-AI-drivna-appar/live-7-oktober)
+* [9 okt](https://github.com/fu-ai-fe24/week-41-lecture-9-okt)
 
 ### Filmer
 
